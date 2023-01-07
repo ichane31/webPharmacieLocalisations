@@ -36,8 +36,9 @@ Pour déployer ce projet sur votre serveur d'application, suivez les étapes sui
 
 #Architecture du projet
 partie web 
-
-
+https://tse2.mm.bing.net/th?id=OIP.M-T4TC57pJ6-SeCupH8o4AHaEK&pid=Api&P=0
+partie mobile
+https://imgur.com/SUYC1Xw.jpg
 
 #Lien github vers les parties mobile et le backend
 
