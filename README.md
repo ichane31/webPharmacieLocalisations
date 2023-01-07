@@ -34,6 +34,11 @@ Pour déployer ce projet sur votre serveur d'application, suivez les étapes sui
 5. Déployez l'archive sur votre serveur d'application en suivant les instructions de votre serveur
 6. Ouvrez votre navigateur et accédez à l'application en entrant l'URL suivante : http://localhost:8080/nom_de_votre_application (remplacez nom_de_votre_application par le nom de votre application déployée)
 
+#Architecture du projet
+partie web 
+
+
+
 #Lien github vers les parties mobile et le backend
 
 mobile : https://github.com/ichane31/pharmacielocalisation   ; 
